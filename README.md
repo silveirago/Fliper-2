@@ -20,3 +20,9 @@ For an in depth tutorial look at my courses:
 
 If you have doubts, shoot me an email at:
 gustavosilveira@musiconerd.com
+
+The 3d Model enclosure was created and kindly donated to the world by Jason Williams!
+
+Tinkercad link: jaywms@gmail.com
+
+jaywms@gmail.com

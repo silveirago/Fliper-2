@@ -59,7 +59,7 @@ int buttonPState[N_BUTTONS] = {};        // armazena o valor anterior do botão
 
 // debounce
 unsigned long lastDebounceTime[N_BUTTONS] = {0};  // a última vez que o pino de saída foi alternado
-unsigned long debounceDelay = 50;    //* o tempo de debounce; aumentar se a saída estiver mandando muitas notas de uma vez so
+unsigned long debounceDelay = 20;    //* o tempo de debounce; aumentar se a saída estiver mandando muitas notas de uma vez so
 
 /////////////////////////////////////////////
 // POTENCIOMETROS
